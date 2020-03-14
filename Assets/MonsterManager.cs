@@ -16,16 +16,23 @@ public class MonsterManager : MonoBehaviour
 
     private float spawnTimer = 0;
 
+    public bool started;
+
     // Start is called before the first frame update
     void Start()
     {
 
     }
 
+    public void SetStarted() {
+        this.started = true;
+    }
+
     // Update is called once per frame
     void Update()
     {
-        spawnTimer += Time.deltaTime;
+        if(started)
+            spawnTimer += Time.deltaTime;
 
         if (spawnTimer >= spawnWaitPeriode)
         {

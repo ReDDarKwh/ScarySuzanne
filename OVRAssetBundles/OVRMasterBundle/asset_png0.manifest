@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1314580772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4d26909cbf508481dd2e07b341ae31f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f7a8bc794068968cebc4add383d9e5e
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/AllSkyFree/Cold Night/Cold Night Equirect.png
+Dependencies: []

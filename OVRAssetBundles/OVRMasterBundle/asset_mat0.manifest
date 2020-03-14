@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3675295913
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4179933a9233678605694795001549d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d9e83e255938d523b2aa63322721cf8
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/AllSkyFree/Cold Night/Cold Night Equirect.mat
+Dependencies:
+- C:/Users/turbo/Documents/GitHub/ScarySuzanne/OVRAssetBundles/OVRMasterBundle/asset_png0

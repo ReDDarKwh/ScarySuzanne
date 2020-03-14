@@ -9,13 +9,14 @@ public class ScoreText : MonoBehaviour
 {
 
     public TextMeshProUGUI text;
-    private int score;
+    
 
     // Start is called before the first frame update
     void Start()
     {
-        this.score = GameObject.FindGameObjectWithTag("Score").GetComponent<Score>().score;
-        text.text = score <= 1? $"{score} Suzanne Killed": $"{score} Suzannes Killed";
+        var score = GameObject.FindGameObjectWithTag("Score").GetComponent<Score>();
+        text.text = score.score <= 1? $"{score.score} Suzanne Killed": $"{score.score} Suzannes Killed";
+        score.score = 0;
     }
 
     // Update is called once per frame

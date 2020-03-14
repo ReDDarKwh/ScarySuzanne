@@ -2241,7 +2241,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: U DED BRO
+  m_text: DONT TURN AROUND.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a4eede6fcc7f6434cb526f4b62b7519e, type: 2}
   m_sharedMaterial: {fileID: 4230814414607612370, guid: a4eede6fcc7f6434cb526f4b62b7519e,
@@ -2311,7 +2311,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1804797624}
-    characterCount: 9
+    characterCount: 17
     spriteCount: 0
     spaceCount: 2
     wordCount: 3

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 793476082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38de80210b95e8a2787e0902a5466498
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sounds/Atmosphere_BoundedScreams_Loop.wav
+- Assets/Sounds/Song_PainfulMemories_Loop.wav
+Dependencies: []
